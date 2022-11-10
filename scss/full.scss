@@ -1,0 +1,53 @@
+#app {
+    .full {
+        width: 1440px;
+        display: flex;
+        justify-content: space-between;
+        margin: 50px;
+    
+        .image {
+            width: 800px;
+            img {
+                width: 100%;
+                object-fit: cover;
+                border: 3px solid #262626;
+            }
+        }
+        .details {
+            width: 640px;
+            // background-color: antiquewhite;
+            padding: 24px 24px;
+            font-family: 'Rubik', sans-serif;
+            .brand {
+                margin-bottom: 8px;
+            }
+            .description {
+                // background-color: blueviolet;
+                width: 590px;
+                word-break:break-all;
+                padding: 10px 10px 10px 0;
+                margin-top: 12px;
+
+                h2 {
+                    font-family: 'Playfair Display', serif;
+                }
+
+                .specs {
+                    margin-top: 24px;
+                }
+            }
+
+            .close {
+                margin-top: 24px;
+                width: 150px;
+                height: 64px;
+                background-color: rgba(240, 173, 17, 0.7);
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                cursor: pointer;
+                border-radius: 45px;
+            }
+        }
+    }
+}
