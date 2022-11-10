@@ -1,0 +1,81 @@
+var ITEMS = [
+  {
+    itemType: "Tent",
+    itemName: "REI Co-op Passage 2 Tent",
+    itemBrand: "REI",
+    itemPrice: "$159.99",
+    itemColors: "Forest Floor, Placid Lake Blue, Camoflauge",
+    itemDimensions: "88 x 52 inches",
+    itemMaterial: "Polyester",
+    itemFeatures:
+      "2 twin stake-out vestibules provide large covered areas for gear storage, hanging out and more",
+    itemUses: "storage, sleeping, and good times",
+    itemReviews: "188",
+  },
+  {
+    itemType: "Backpack",
+    itemName: "REI Co-op Trailbreak 60 Pack",
+    itemBrand: "REI",
+    itemPrice: "$149.99",
+    itemColors: "Indigo, Tumbleweed",
+    itemDimensions: "17 x 21 inches",
+    itemMaterial: "Ripstop Nylon",
+    itemFeatures:
+      "Shell, straps, lining and bottom made using bluesign®-approved materials, which conserve resources and protect the health of the environment, workers and wearer",
+    itemUses: "storage",
+    itemReviews: "49",
+  },
+  {
+    itemType: "Sleeping Bag",
+    itemName: "REI Co-op Trailbreak 30 Sleeping Bag",
+    itemBrand: "REI",
+    itemPrice: "$59.95",
+    itemColors: "Dark Army Cot",
+    itemDimensions: "62 x 72 inches",
+    itemMaterial: "Polyester",
+    itemFeatures:
+      "Water-resistant synthetic fill keeps insulating in damp conditions",
+    itemUses: "sleeping",
+    itemReviews: "49",
+  },
+  {
+    itemType: "Hammock",
+    itemName: "ENO DoubleNest Print Hammock",
+    itemBrand: "ENO",
+    itemPrice: "$84.95",
+    itemColors: "Boulder/melon, Fade/seaglass, Retro/emerald",
+    itemDimensions: "114 x 76 inches",
+    itemMaterial:
+      "FreeWave 70-denier nylon taffeta (bluesign® approved)/anodized 7075 aluminum",
+    itemFeatures:
+      "Specially designed carabiners easily attach to all ENO hammock straps or other secure anchor points and help maintain correct orientation; suspension system not included",
+    itemUses: "sleeping",
+    itemReviews: "774",
+  },
+  {
+    itemType: "Chair",
+    itemName: "ALPS Mountaineering King Kong Chair",
+    itemBrand: "ALPS",
+    itemPrice: "$119.99",
+    itemColors: "Khaki",
+    itemDimensions: "38 x 38 x 20 inches",
+    itemMaterial: "600-denier polyester",
+    itemFeatures:
+      "Hanging side pockets hold your book or others items you want close at hand and up off the ground; mesh seat-back pocket also holds small gear",
+    itemUses: "resting, storage",
+    itemReviews: "45",
+  },
+  {
+    itemType: "Headlamp",
+    itemName: "Black Diamond Spot 350 Headlamp",
+    itemBrand: "Black Diamond",
+    itemPrice: "$39.95",
+    itemColors: "Dark Olive, Octane",
+    itemDimensions: "5 x 4 x 2 inches",
+    itemMaterial: "aluminum, elastic",
+    itemFeatures:
+      "Hanging side pockets hold your book or others items you want close at hand and up off the ground; mesh seat-back pocket also holds small gear",
+    itemUses: "resting, storage",
+    itemReviews: "45",
+  },
+];
