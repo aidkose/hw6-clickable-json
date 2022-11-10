@@ -171,11 +171,11 @@ function initListeners() {
           </div>
           <div class="specs">
             <h2>Technical Specifications</h2>
-            <div class="type">${ITEMS[itemIndex].itemType}</div>
-            <div class="dimensions">${ITEMS[itemIndex].itemDimensions}</div>
-            <div class="material">${ITEMS[itemIndex].itemMaterial}</div>
-            <div class="features">${ITEMS[itemIndex].itemFeatures}</div>
-            <div class="uses">${ITEMS[itemIndex].itemUses}</div>
+            <div class="type">Product Type: ${ITEMS[itemIndex].itemType}</div>
+            <div class="dimensions">Dimensions: ${ITEMS[itemIndex].itemDimensions}</div>
+            <div class="material">Material(s): ${ITEMS[itemIndex].itemMaterial}</div>
+            <div class="features">Features: ${ITEMS[itemIndex].itemFeatures}</div>
+            <div class="uses">Uses: ${ITEMS[itemIndex].itemUses}</div>
             <div class="close">CLOSE</div>
           </div>
         </div>
