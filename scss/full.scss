@@ -4,7 +4,7 @@
         display: flex;
         justify-content: space-between;
         margin: 50px;
-    
+        color: #e7e7e7;
         .image {
             width: 800px;
             img {
@@ -41,12 +41,13 @@
                 margin-top: 24px;
                 width: 150px;
                 height: 64px;
-                background-color: rgba(240, 173, 17, 0.7);
+                background-color: rgba(240, 173, 17);
                 display: flex;
                 justify-content: center;
                 align-items: center;
                 cursor: pointer;
                 border-radius: 45px;
+                color: black;
             }
         }
     }

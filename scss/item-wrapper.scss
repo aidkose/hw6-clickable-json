@@ -5,8 +5,8 @@
     align-items: center;
     flex-wrap: wrap;
     margin: 0 auto;
+    background-color: #5b5b5b;
     .wrapper {
-        // background-color: #262626;
         .item-wrapper {
             max-width: 300px;
             height: 600px;
@@ -29,7 +29,7 @@
                 height: 200px;
                 .item-brand {
                     font-size: 14px;
-                    color: #888888;
+                    color: #b7b7b7;
                     padding-bottom: 4px;
                     font-family: 'Rubik', sans-serif;
                 }
@@ -37,13 +37,17 @@
                     font-weight: bold;
                     padding-bottom: 16px;
                     font-family: 'Playfair Display', serif;
+                    color: #e7e7e7;
+                    
                 }
                 .item-price {
                     padding-bottom: 8px;
                     font-family: 'Rubik', sans-serif;
+                    color: #e7e7e7;
                 }
                 .item-reviews {
                     font-family: 'Rubik', sans-serif;
+                    color: gold;
                 }
             }
         }
